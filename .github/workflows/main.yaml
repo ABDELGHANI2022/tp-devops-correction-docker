@@ -24,6 +24,4 @@ jobs:
           java-version: '21'
 
       - name: Build and test with Maven
-        run: |
-          cd simple-api
-          mvn clean verify
+        run: mvn clean verify
