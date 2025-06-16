@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "Ghani Sonar Cloud connexion ",
+        "projectKey": "ABDELGHANI2022_tp-devops-correction-docker"
+    }
+}
