@@ -1,0 +1,1 @@
+**Testcontainers** are Java libraries that provide lightweight, throwaway containers (e.g., databases, message queues) for integration testing. They use Docker to spin up real service instances during tests, ensuring realistic and isolated test environments.
