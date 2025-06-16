@@ -33,4 +33,3 @@ jobs:
             -Dsonar.organization=abdelghani2022 \
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.login=${{ secrets.SONAR_TOKEN }} \
-            --file ./simple-api/pom.xml
