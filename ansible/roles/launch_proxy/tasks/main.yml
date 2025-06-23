@@ -8,4 +8,4 @@
     ports:
       - "80:80"
     networks:
-      - app-network
+      - name : app-network
